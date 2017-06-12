@@ -2,10 +2,9 @@
 % Purpose:
 %   This file sets up pitch matrices and 
 %   and designs a LQGLTR state feedback controller 
-%   with an accel cmd
+%   with an accel cmd (essentially LQR with loop-transfer recovery)
 %
 % Author: Jesse Weisberg
-%
 % ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 %% RSLQR Design 
