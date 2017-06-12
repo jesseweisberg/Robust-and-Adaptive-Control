@@ -1,3 +1,11 @@
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+% Purpose:
+%   Take-home Midterm: RSLQR controller commanding AOA with state feedback
+%
+% Author: Jesse Weisberg
+% ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
 % ESE 547 Take-home Midterm
 % Author: Jesse Weisberg 
 clear all
