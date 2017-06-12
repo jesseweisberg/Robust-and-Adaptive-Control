@@ -3,4 +3,4 @@ For a class in Robust & Adaptive Control, I created Matlab implementations of LQ
 
 Further built into these implementations are extensive time-domain and frequency domain analyses, along with useful frameworks for using these analyses to determine optimal gains.  
 
-All of these scripts are implemented towards aircraft control applications, but these control frameworks can be easily transferred to other problems.
+All of these scripts are implemented towards aircraft control applications, but these control frameworks can be transferred to other problems.
