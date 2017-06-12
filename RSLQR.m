@@ -4,10 +4,6 @@
 %
 % Author: Jesse Weisberg
 % ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-% ESE 547 Take-home Midterm
-% Author: Jesse Weisberg 
 clear all
 close all
 
