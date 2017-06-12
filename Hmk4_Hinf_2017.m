@@ -3,9 +3,8 @@
 %   This file sets up the pitch matrices 
 %   and designs a Hinf SF Accel Cmd Tracking autopilot
 %
-% Created : 2/8/2017, Kevin A Wise
+% Author : Jesse Weisberg
 %
-% Modified:
 % ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 clc
 clear all
